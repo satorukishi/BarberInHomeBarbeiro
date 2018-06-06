@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Barber in Home (Barbeiro)</string>
+    <string name="logo_barber_in_home">Logo Barber in Home</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="signup">Hey, barber, click here to sign up</string>
+    <string name="login">Log In</string>
+    <string name="create_free_acount">Sign up now! It\'s free</string>
+    <string name="username">Username</string>
+    <string name="cellphone">Cell phone</string>
+    <string name="create_account">Create an account</string>
+    <string name="signup_empty">Login can\'t be blank</string>
+    <string name="email_empty">Email can\'t be blank</string>
+    <string name="password_empty">Password can\'t be blank and is too short (minimum is 7 characters)</string>
+    <string name="cellphone_empty">Cell phone can\'t be blank</string>
+    <string name="error500">Oops! Something went wrong. Try again later</string>
+    <string name="error_signup">Sign up error</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_about">About</string>
+    <string name="error_invalid_login">Incorrect email or password</string>
+    <string name="developed_by">Developed by:</string>
+    <string name="version">Version</string>
+    <string name="versionNumber">1.0.0.0</string>
+</resources>

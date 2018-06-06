@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="largura_logo_splash">150dp</dimen>
+    <dimen name="altura_logo_splash">50dp</dimen>
+
+    <dimen name="largura_logo_sobre">225dp</dimen>
+    <dimen name="altura_logo_sobre">75dp</dimen>
+
+    <dimen name="activity_vertical_margin">8dp</dimen>
+    <dimen name="activity_horizontal_margin">8dp</dimen>
+</resources>
