@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Barber in Home (Barbeiro)</string>
+    <string name="logo_barber_in_home">Logo Barber in Home</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="signup">Ei, barbeiro, cadastre-se aqui</string>
+    <string name="login">Autenticar</string>
+    <string name="create_free_acount">Cadastre-se agora! É grátis</string>
+    <string name="username">Usuário</string>
+    <string name="cellphone">Celular</string>
+    <string name="create_account">Crie uma conta</string>
+    <string name="signup_empty">Informe o login</string>
+    <string name="cellphone_empty">Informe o celular</string>
+    <string name="developed_by">Desenvolvido por:</string>
+    <string name="email_empty">Informe o e-mail</string>
+    <string name="error_invalid_login">Email ou senha incorreta</string>
+    <string name="error_signup">Erro no cadastro</string>
+    <string name="error500">Ops! Algo deu errado. Tente novamente mais tarde</string>
+    <string name="password_empty">Campo senha deve ter no mínimo 7 caracteres</string>
+    <string name="title_about">Sobre</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_calendar">Calendário</string>
+    <string name="title_profile">Usuário</string>
+    <string name="version">Versão</string>
+    <string name="versionNumber">1.0.0.0</string>
+</resources>
