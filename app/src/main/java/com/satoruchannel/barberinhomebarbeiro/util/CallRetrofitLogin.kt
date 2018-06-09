@@ -1,14 +1,14 @@
 package com.satoruchannel.barberinhomebarbeiro.util
 
-import com.satoruchannel.barberinhomebarbeiro.model.User
+import com.satoruchannel.barberinhomebarbeiro.model.Barber
 import retrofit2.Call
 import retrofit2.http.GET
 import retrofit2.http.Query
 
-interface CallRetrofit {
-    @GET("app/rest/wsClients?a=5")
+interface CallRetrofitLogin {
+    @GET("app/rest/wsClients")
     fun getUser(@Query("login_email") login_email: String,
-                @Query("senha") senha: String): Call<List<User>>
+                @Query("senha") senha: String): Call<List<Barber>>
 
 
 }
